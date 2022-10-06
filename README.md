@@ -3,8 +3,6 @@
 - Sou estudante de Análise e Desenvolvimento de Sistemas, com foco na área de back-end
 - Estou atualmente estudando Javascript e Python ;)
 
-<p style="text-align=center;">oi</p>
-
 <div style="display: block"><br>
   <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> -
   <img align="center" alt="icon-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -
