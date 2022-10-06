@@ -32,4 +32,5 @@
   <a href="mailto:elisamguiar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-elisa-aguiar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="discordapp.com/users/650733995486871583" target="_blank"><img src="https://img.shields.io/badge/-Discord-8b89cc?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://replit.com/@lisaguiar" target="_blank"><img src="https://img.shields.io/badge/-Replit-FF8D85?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>
 </div>
