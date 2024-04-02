@@ -1,7 +1,7 @@
 <h3>Oi 👋, Eu sou a Ana!</h3>
 
 - 👨‍💻 Futura desenvolvedora **backend**
-- 🌱 Estou atualmente estudando **Javascript e Python** ;)
+- 🌱 Estou atualmente estudando **Javascript (React, Node, TypeScript e Next)** ;
 - 📫 Meu e-mail: **elisamguiar@gmail.com**
 
 
